@@ -1,0 +1,2 @@
+Task: Write unit tests for the user login feature
+Goal: Make sure invalid passwords are rejected with an error message
